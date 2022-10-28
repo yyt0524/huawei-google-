@@ -4,7 +4,7 @@
 原帖作者写的很周到，在此mark
 步骤1：检查系统程序是否存在Google相关服务
 如果你之前安装过Google套件的，需要先卸载原有Google套件，在设置->应用和服务->应用管理，搜索google或者谷歌，原有的谷歌套件必须全部卸载掉。如果卸载不干净的，可以重置手机（不建议）。
-
+![](https://github.com/yyt0524/huawei-google-/blob/main/img/1.jpg)
 
 如果之前未安装过Google相关服务的，可以直接跳过步骤一。
 
